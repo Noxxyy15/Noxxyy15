@@ -1,6 +1,5 @@
 ## hey there!
 im noxxyy / nox
-<hr>
 <h1>Tech Stack:</h1>
 
 <p align="left"> 
