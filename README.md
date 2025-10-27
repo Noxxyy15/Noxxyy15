@@ -1,5 +1,5 @@
 ## hey there!
-im noxxyy / nox
+im noxxyy / nox. I like coding the randomest projects and "learning" new languages. my main language is Python Html and Css (if you count those) I try and dabble in JS and working on C++ right now while learning my way around bash in the console.
 <h1>Tech Stack:</h1>
 
 <p align="left"> 
