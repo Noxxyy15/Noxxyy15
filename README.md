@@ -1,7 +1,7 @@
 ## hey there!
 im noxxyy / nox
 <hr>
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p align="left"> 
 
