@@ -1,34 +1,45 @@
-## hey there!
-im noxxyy / nox. I like coding the randomest projects and "learning" new languages. my main language is Python Html and Css (if you count those) I try and dabble in JS and working on C++ right now while learning my way around bash in the console.
-<h1>Tech Stack:</h1>
+# hey there!  
 
-<p align="left"> 
+I’m **noxxyy** — or just **nox**.  
+I like messing with loads of random things.  
+The main languages I *properly* know are **Python**, **HTML**, and **CSS** (if you count those).  
+I also mess around in **JavaScript**, and I’m currently trying to learn **C++** while getting comfy with **Bash** and **Linux** in general.
 
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-  </a>
+---
 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  </a>
+### what I’m up to  
+- learning C++ with random programs  
+- messing with or adding to my config & dotfiles  
+- occasionally building small websites for fun  
+- experimenting with automation and scripting  
 
-   <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
-  </a>
+---
 
-   <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  </a>
+### tech stack
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+<p/>
 
-  <h1>Working On:</h1>
+---
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
-  </a>
+### more about me  
+-  I use **EndeavourOS** as my main OS and **KDE** about 70% of the time  
+-  I like ricing my **Hyprland** config — even if I don’t actually use it much  
+-  you can check out more of my configs in my [linux themes repo](https://github.com/Noxxyy15/linux_themeings)
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-  
-</p>
+---
 
+### where to get icons like these
+You can find them here:
+- [**Devicon**](https://devicon.dev) – for language and tool logos  
+- [**Simple Icons**](https://simpleicons.org) – tons of brand icons you can use with Markdown or Shields.io badges  
+- [**Shields.io**](https://shields.io) – if you want those small badges for “languages”, “repos”, etc.
